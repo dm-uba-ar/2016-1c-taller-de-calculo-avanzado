@@ -1,8 +1,4 @@
-# Taller de Cálculo Avanzado 2do. Cuatrimestre de 2015 — Primer cuatrimestre de 2016
-
-## Equipo docente
-
-- **Clases teóricas:** Alicia Dickenstein
+# Taller de Cálculo Avanzado — Primer cuatrimestre de 2016
 
 ## Prácticas
 
@@ -19,15 +15,6 @@
 - [Notas de Norberto Fava sobre las cortaduras de Dedekind.](cortaduras.pdf)
 - [Demostración del teorema de Heine Borel.](heine-borel.pdf)
 - [Recta real extendida](Recta_real.pdf)
-
-## Bibliografía
-
-- S. D. Abbott: Understanding Analysis . Springer-Verlag, New York, 2001.
-- T. Apostol: Mathematical Analysis . Addison Wesley, Massachusetts, 1958.
-- E. L. Lima: Análise Real, Vol.1 . IMPA, Coleção Matemática Universitária, 1999 (4ta. edición).
-- J. Rey Pastor, C. Pi Calleja, C. Trejo: Análisis Matemático , Vol. I y II. Kapelusz, Buenos Aires, 1959.
-- W. Rudin: Principios de Análisis Matemático . Mc Graw-Hill, 1980 (3ra. edición).
-- R. Creighton Buck: Cálculo Superior . McGraw-Hill, Madrid, 1969.
 
 ## Página original
 
